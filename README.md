@@ -11,11 +11,8 @@ Python files for translating social media posts on Weibo using Google Cloud API,
 ### Dependencies
 
 
-### Installing
 
-* 
-
-### Executing program
+### Installing + Executing program
 
 * 
 ```
