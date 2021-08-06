@@ -9,15 +9,7 @@ Python files for translating social media posts on Weibo using Google Cloud API,
 ## Getting Started
 
 ### Dependencies
-
-
-
-### Installing + Executing program
-
-* 
-```
-code blocks for commands
-```
+Python 3.9.5
 
 
 ## From googletranslate.py - Information for setting up Google Cloud API translator:
