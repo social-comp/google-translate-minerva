@@ -11,6 +11,11 @@ Python files for translating social media posts on Weibo using Google Cloud API,
 ### Dependencies
 Python 3.9.5
 
+## How to Use
+Follow the comments for where to replace files and create new files using the scripts. 
+ Run `python scriptyouwanttorun.py`
+
+
 
 ## From googletranslate.py - Information for setting up Google Cloud API translator:
 
@@ -44,6 +49,3 @@ deactivate
 
 
 
-## Authors
-
-Contributors names and contact info
